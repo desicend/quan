@@ -1,0 +1,7 @@
+# 用于自用 emby 分流（示例：直连）
+# 规则格式：TYPE,VALUE,POLICY
+# 你需要把最后的策略名（DIRECT/PROXY/Emby）换成你 Quantumult X 里真实存在的 policy 名。
+
+DOMAIN-SUFFIX,liminalnet.com,DIRECT
+# TODO: 把下面这条改成你真实的域名（你原来的 28.al 可能写漏了）
+# DOMAIN-SUFFIX,example.al,DIRECT
