@@ -1,5 +1,6 @@
 # 用于自用emby分流
 payload:
+  - DOMAIN-SUFFIX,younoyes.com
   - DOMAIN-SUFFIX,liminalnet.com
   - DOMAIN-SUFFIX,28.al
   - DOMAIN-SUFFIX,digimon.ink
