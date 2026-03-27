@@ -1,6 +1,7 @@
 payload:
   # 用于自用安必分流 direct
   - DOMAIN-SUFFIX,emby.777865.xyz
+  - DOMAIN-SUFFIX,fandai.777865.xyz
   # emos
   - DOMAIN-SUFFIX,emos.wangjunqiang.indevs.in
   - DOMAIN-SUFFIX,emos.ujmb.dpdns.org
