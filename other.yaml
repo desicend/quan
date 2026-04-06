@@ -2,3 +2,4 @@
 payload:
   - DOMAIN-SUFFIX,istand.cc
   - IP-CIDR,100.66.1.0/24
+  - DOMAIN-SUFFIX,spaceship.com
