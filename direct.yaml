@@ -9,5 +9,6 @@ payload:
   - DOMAIN-SUFFIX,gy.fxtbjmqslr.cn
   - DOMAIN-SUFFIX,tyemby.klplay.top
   - DOMAIN-SUFFIX,egernlincense.com
+  - DOMAIN-SUFFIX,right.com.cn
   - DST-PORT,22
   - DST-PORT,60000

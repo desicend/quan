@@ -7,6 +7,7 @@ domain_suffix_set:
 - gy.fxtbjmqslr.cn
 - tyemby.klplay.top
 - egernlincense.com
+- right.com.cn
 ip_cidr_set:
 - 100.66.1.0/24
 dest_port_set:
