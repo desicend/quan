@@ -1,0 +1,13 @@
+# Krak / Kraken — Kraken 旗下全能支付 App 分流规则
+# 主站点 & API 域名，走代理
+payload:
+  - DOMAIN-SUFFIX,krak.app
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,api.kraken.com
+  - DOMAIN-SUFFIX,auth.kraken.com
+  - DOMAIN-SUFFIX,content.kraken.com
+  - DOMAIN-SUFFIX,futures.kraken.com
+  - DOMAIN-SUFFIX,kraken.community
+  - DOMAIN-SUFFIX,krakenassets.com
+# 合作发卡机构
+  - DOMAIN-SUFFIX,monavate.com

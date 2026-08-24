@@ -16,6 +16,7 @@ payload:
 - `direct.yaml`：其他直连分流规则，包含域名、IP 段和端口规则。
 - `proxy.yaml`：其他代理分流规则。
 - `crypto.yaml`：加密货币相关服务分流规则，例如 Bybit、Binance 及相关域名/IP。
+- `krak.yaml`：Krak / Kraken 支付 App 代理分流规则（Kraken 旗下金融 App）。
 - `module-redirect.yaml`：Egern 模块跳转配置，用于将部分插件/模块安装链接改写为 Egern 导入链接。
 
 ## egern 目录
@@ -43,6 +44,7 @@ dest_port_set:
 - `egern/emby-direct.yaml`：对应 Emby 直连线路规则。
 - `egern/emby-bypass-japan.yaml`：对应 Emby 绕日本线路规则。
 - `egern/emby-proxy.yaml`：对应 Emby 代理线路规则。
+- `egern/krak.yaml`：对应 Krak/Kraken 代理分流规则。
 
 ## 维护约定
 
