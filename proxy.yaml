@@ -4,3 +4,16 @@ payload:
   - DOMAIN-SUFFIX,ipv6.ping0.cc
   - DOMAIN-SUFFIX,ipv6.icanhazip.com
   - DOMAIN-SUFFIX,danmu.777865.xyz
+
+# Krak / Kraken 系列（Kraken 旗下全能支付 App）
+# 主站点 & API
+  - DOMAIN-SUFFIX,krak.app
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,api.kraken.com
+  - DOMAIN-SUFFIX,auth.kraken.com
+  - DOMAIN-SUFFIX,content.kraken.com
+  - DOMAIN-SUFFIX,futures.kraken.com
+  - DOMAIN-SUFFIX,kraken.community
+  - DOMAIN-SUFFIX,krakenassets.com
+# 合作发卡机构
+  - DOMAIN-SUFFIX,monavate.com
