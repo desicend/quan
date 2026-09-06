@@ -1,0 +1,23 @@
+# Microsoft Copilot 分流规则
+domain_set:
+- admin.microsoft.com
+- substrate.office.com
+- m365.cloud.microsoft
+- copilot.microsoft.com
+- edge.microsoft.com
+- www.bing.com
+- sydney.bing.com
+- edgeservices.bing.com
+- www.bingapis.com
+- access-point.cloudmessaging.edge.microsoft.com
+- browser.pipe.aria.microsoft.com
+- functional.events.data.microsoft.com
+- studiostaticassetsprod.azureedge.net
+
+domain_suffix_set:
+- ecs.office.com
+- designer.microsoft.com
+- designerapp.osi.office.net
+- designerapp.officeapps.live.com
+- events.data.microsoft.com
+- prod.do.dsp.mp.microsoft.com
