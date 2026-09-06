@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,emos.ujmb.dpdns.org
   - DOMAIN-SUFFIX,emos.dolby.dpdns.org
   - DOMAIN-SUFFIX,emos.liuer.indevs.in
+  - DOMAIN-SUFFIX,emos.cyclince.de
 
   # rocc
   - DOMAIN-SUFFIX,emby.cf.rochub.xyz
