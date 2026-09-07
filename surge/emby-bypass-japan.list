@@ -1,0 +1,8 @@
+# Converted from egern/emby-bypass-japan.yaml
+# Surge RULE-SET plain-text format
+DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,test.28.al
+DOMAIN-SUFFIX,digimon.ink
+DOMAIN-SUFFIX,yvle.de
+DOMAIN-SUFFIX,freestream.startspoint.com
+DOMAIN-SUFFIX,us.aemby.de

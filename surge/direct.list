@@ -1,0 +1,14 @@
+# Converted from egern/direct.yaml
+# Surge RULE-SET plain-text format
+DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,test.777865.xyz
+DOMAIN-SUFFIX,nezha.istand.cc
+DOMAIN-SUFFIX,api.liiii.de
+DOMAIN-SUFFIX,istand.cc
+DOMAIN-SUFFIX,gy.fxtbjmqslr.cn
+DOMAIN-SUFFIX,tyemby.klplay.top
+DOMAIN-SUFFIX,egernlincense.com
+DOMAIN-SUFFIX,right.com.cn
+IP-CIDR,100.66.1.0/24
+DEST-PORT,22
+DEST-PORT,60000
