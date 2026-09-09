@@ -10,5 +10,10 @@ payload:
   - DOMAIN-SUFFIX,tyemby.klplay.top
   - DOMAIN-SUFFIX,egernlincense.com
   - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN-SUFFIX,termius.com
+  - DOMAIN-SUFFIX,777865.xyz
+  - DOMAIN,greencloudvps.com
+  - DOMAIN-SUFFIX,netcup.com
+  - DOMAIN-KEYWORD,vmiss
   - DST-PORT,22
   - DST-PORT,60000

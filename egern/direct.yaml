@@ -8,6 +8,13 @@ domain_suffix_set:
 - tyemby.klplay.top
 - egernlincense.com
 - right.com.cn
+- termius.com
+- 777865.xyz
+- netcup.com
+domain_set:
+- greencloudvps.com
+domain_keyword_set:
+- vmiss
 ip_cidr_set:
 - 100.66.1.0/24
 dest_port_set:
