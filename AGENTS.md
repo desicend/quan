@@ -32,3 +32,4 @@
 3. 域名规则优先使用 `DOMAIN-SUFFIX`；Egern 对应使用 `domain_suffix_set`。
 4. 从 URL 提取规则时，只保留域名，移除协议、端口和路径。
 5. 提交前确认根目录 YAML 与 `egern/` 对应文件的规则语义一致，且无重复规则。
+6. `surge/` 下所有 `.list` 文件中的 `IP-CIDR` 和 `IP-CIDR6` 规则必须添加 `no-resolve`。
